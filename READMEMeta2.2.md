@@ -11,6 +11,7 @@ La aplicación incluye:
 - Botón para actualizar imágenes dinámicamente
 - Tabla con información del perfil del estudiante
 - Pie de página con datos académicos y fecha dinámica
+- Aplicacion central en donde estan los 4 componentes (pages/inlace.vue)
 
 El proyecto demuestra el uso de componentes reutilizables, consumo de API externa, manejo de estado y diseño responsive con Vuetify.
 
@@ -29,7 +30,7 @@ Guarda la imagen dentro del proyecto (por ejemplo en /public) y ajusta la ruta s
 
 # Instrucciones de Instalación y Ejecución
 1️. Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/alejandroluigi/Interfaz-de-usuario-con-Vuetify
 cd tu-repositorio
 
 2️. Instalar dependencias
